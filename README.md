@@ -178,14 +178,14 @@ The background of the site is dynamic and switches between a night and day colou
 Day theme:
 ![image](readme-images/main.png)<div align="center">
 
-Day theme with clouds:
-![image](readme-images/day-clouds.png)<div align="center">
-
 Night theme:
 ![image](readme-images/night.png)<div align="center">
 
-Night theme with rain:
-![image](readme-images/night-rain.png)<div align="center">
+Cloud annimation:
+![image](readme-images/clouds-gif.gif)<div align="center">
+
+Rain annimation:
+![image](readme-images/rain-gif.gif)<div align="center">
 
 ----
 
@@ -273,3 +273,4 @@ https://stackoverflow.com/<br>
 https://www.diffchecker.com/<br>
 https://www.unixtimestamp.com/<br>
 https://getemoji.com/<br>
+https://ezgif.com/<br>
