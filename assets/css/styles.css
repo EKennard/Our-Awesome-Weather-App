@@ -216,11 +216,14 @@ h1 {
   height: 60px;
   background: rgba(255, 255, 255, 0.668);
   border-radius: 50%;
+  overflow: hidden;
+  top: 50px;
+  left: 0;
   box-shadow:
     30px 10px rgba(255, 255, 255, 0.668),
     60px 0px rgba(255, 255, 255, 0.668),
     90px 10px rgba(255, 255, 255, 0.668);
-  animation: floatClouds 20s linear infinite;
+  animation: floatCloud 20s linear infinite;
   z-index: -1;
 }
 
