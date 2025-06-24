@@ -226,6 +226,6 @@ h1 {
 
 @keyframes moveCloud {
   to {
-    transform: translateX(150vw);
+    transform: translateX(105vw);
   }
 }
