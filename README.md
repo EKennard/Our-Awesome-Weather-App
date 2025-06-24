@@ -109,11 +109,14 @@ Main Page Wireframe
 ![wireframe main page](readme-images/wireframe-main-page.png)<div align="center">
 
 ### ❄️ Colour Palette
-![colour-pallette](readme-images/colour-pallette.png)<div align="center">
+![colour-pallette](readme-images/colour-pallette.jpg)<div align="center">
 
 ### ❄️ Font Typography
 ![fonts](readme-images/fonts.png)<div align="center">
-Three font types were initially chosen....
+
+Using these this colout pallette and fonts we created these root variables in the CSS to control all aspects of the site.
+
+![colour-pallette](readme-images\css-root-variables.png)<div align="center">
 
 ---
 
