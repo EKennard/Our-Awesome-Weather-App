@@ -223,10 +223,9 @@ h1 {
     30px 10px rgba(255, 255, 255, 0.668),
     60px 0px rgba(255, 255, 255, 0.668),
     90px 10px rgba(255, 255, 255, 0.668);
-  animation: floatCloud 20s linear infinite;
+  animation: moveCloud 20s linear infinite;
   z-index: -1;
 }
-
 
 @keyframes moveCloud {
   to {
