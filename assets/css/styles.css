@@ -220,9 +220,16 @@ h1 {
     30px 10px rgba(255, 255, 255, 0.668),
     60px 0px rgba(255, 255, 255, 0.668),
     90px 10px rgba(255, 255, 255, 0.668);
-  animation: moveCloud linear forwards;
+  animation: floatClouds 20s linear infinite;
   z-index: -1;
 }
+/*   
+.cloud {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  animation: ;
+}} */
 
 @keyframes moveCloud {
   to {
