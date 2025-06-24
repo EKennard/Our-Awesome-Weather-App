@@ -143,11 +143,11 @@ The main aspect of the the page is taken up by the weather data. Two APis were u
 
 The APIs are activated by an input box and a search button at the top of the page.
 
-![image](readme-images\search.png)<div align="center">
+![image](readme-images/search.png)<div align="center">
 
 This initiates the function to create divs within the main area of the page, and to populate the page with the weather data for the city which was search for.
 
-![image](readme-images\daily.png)<div align="center">
+![image](readme-images/daily.png)<div align="center">
 
 Once the weather information has been retrieved from the API the daily forcast in displayed within a `<div>` with the following information:<br>
 ☁️ The name of the city, <br>
@@ -160,7 +160,7 @@ Once the weather information has been retrieved from the API the daily forcast i
 ☁️ Humidity percentage,<br>
 ☁️ And the wind speed.<br>
 
-![image](readme-images\5-daily.png)<div align="center">
+![image](readme-images/5-daily.png)<div align="center">
 
 Below the daily forcast `<div>`, the 5 day forcast is displayed within a rolling carousel, shoing the following information:<br>
 ☁️ 5 Day Forcast title,<br>
@@ -173,16 +173,16 @@ Below the daily forcast `<div>`, the 5 day forcast is displayed within a rolling
 The background of the site is dynamic and switches between a night and day colour scheme, as well as displaying animations for rain and clouds depending, on which weather type is dominant at the search location.<br>
 
 Day theme:
-![image](readme-images\main.png)<div align="center">
+![image](readme-images/main.png)<div align="center">
 
-Day theme with clouds
-![image](readme-images\day-clouds.png)<div align="center">
+Day theme with clouds:
+![image](readme-images/day-clouds.png)<div align="center">
 
-Night theme
-![image](readme-images\night.png)<div align="center">
+Night theme:
+![image](readme-images/night.png)<div align="center">
 
-Night theme with rain
-![image](readme-images\night-rain.png)<div align="center">
+Night theme with rain:
+![image](readme-images/night-rain.png)<div align="center">
 
 ----
 
