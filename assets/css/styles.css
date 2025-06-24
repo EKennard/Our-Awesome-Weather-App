@@ -216,6 +216,8 @@ h1 {
   height: 60px;
   background: rgba(255, 255, 255, 0.668);
   border-radius: 50%;
+  top: 50px;
+  left: 0;
   box-shadow:
     30px 10px rgba(255, 255, 255, 0.668),
     60px 0px rgba(255, 255, 255, 0.668),
@@ -223,13 +225,7 @@ h1 {
   animation: floatClouds 20s linear infinite;
   z-index: -1;
 }
-/*   
-.cloud {
-  position: absolute;
-  top: 50px;
-  left: 0;
-  animation: ;
-}} */
+
 
 @keyframes moveCloud {
   to {
