@@ -13,7 +13,7 @@ Welcome to the readme for the ‘Weather Web App', a collaborative project for t
 ---
 
 <div align="center"> 
-The live project can be found here: <a target="_blank" href="https://ekennard.github.io/Weather-App/"><em>Our Awesome Weather App<em></a>
+The live project can be found here: <a target="_blank" href="https://ekennard.github.io/Our-Awesome-Weather-App/"><em>Our Awesome Weather App<em></a>
 </div>
 <br>
 
