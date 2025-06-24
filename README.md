@@ -116,7 +116,7 @@ Main Page Wireframe
 
 Using these this colout pallette and fonts we created these root variables in the CSS to control all aspects of the site.
 
-![colour-pallette](readme-images\css-root-variables.png)<div align="center">
+![colour-pallette](readme-images/css-root-variables.png)<div align="center">
 
 ---
 
