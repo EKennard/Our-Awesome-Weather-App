@@ -175,13 +175,13 @@ The background of the site is dynamic and switches between a night and day colou
 Day theme:
 ![image](readme-images\main.png)<div align="center">
 
-Day theme with clouds
+Day theme with clouds:
 ![image](readme-images\day-clouds.png)<div align="center">
 
-Night theme
+Night theme:
 ![image](readme-images\night.png)<div align="center">
 
-Night theme with rain
+Night theme with rain:
 ![image](readme-images\night-rain.png)<div align="center">
 
 ----
